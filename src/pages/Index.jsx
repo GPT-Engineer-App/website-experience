@@ -22,7 +22,7 @@ const Index = () => {
             </Link>
           </Button>
           <Button leftIcon={<FaGithub />} colorScheme="gray" variant="solid">
-            <Link href="https://github.com/johndoe" isExternal>
+            <Link href="https://github.com/gpt-engineer-org/gpt-engineer" isExternal>
               GitHub
             </Link>
           </Button>
