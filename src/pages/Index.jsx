@@ -7,7 +7,7 @@ const Index = () => {
       <VStack spacing={4}>
         <Image borderRadius="full" boxSize="150px" src="https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdHxlbnwwfHx8fDE3MTUwMDgwMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Profile Image" />
         <Heading as="h1" size="xl">
-          John Doe
+          Terry
         </Heading>
         <Text fontSize="md" color="gray.500">
           Software Developer | React Specialist
