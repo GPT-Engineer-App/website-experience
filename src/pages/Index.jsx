@@ -6,7 +6,7 @@ const Index = () => {
     <Container centerContent maxW="container.md" height="100vh" display="flex" flexDirection="column" justifyContent="center" alignItems="center">
       <VStack spacing={4}>
         <Link href="/projects">
-          <Image borderRadius="full" boxSize="150px" src="https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdHxlbnwwfHx8fDE3MTUwMDgwMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Profile Image" />
+          <Image borderRadius="full" boxSize="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Steve_Jobs_with_the_Apple_iPad_no_logo.jpg/1024px-Steve_Jobs_with_the_Apple_iPad_no_logo.jpg" alt="Steve Jobs" />
         </Link>
         <Heading as="h1" size="xl">
           Terry
